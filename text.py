@@ -1,3 +1,5 @@
-print("Hello World")
-print("Python is very easy to learn.")
-
+a=int(input())
+if a%2==0:
+    print("Even")
+else:
+    print("Odd")
